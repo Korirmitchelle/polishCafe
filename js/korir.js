@@ -20,5 +20,5 @@ var images = [],
 images[0] = "images/10.jpg";
 images[1] = "images/burger-1156564_640.jpg";
 images[2] = "images/burger-868145_640.jpg";
-images[2] = "images/hamburger-1414423_640.jpg";
-images[2] = "images/food.jpeg";
+images[3] = "images/hamburger-1414423_640.jpg";
+images[4] = "images/food.jpeg";
