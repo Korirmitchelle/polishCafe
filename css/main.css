@@ -1,13 +1,21 @@
     * {
-    margin: 0;
-    border: 10px;
-    padding: 0;
-}
-body {
-    background-color: darkgrey;
-    font: 14px/20px Arial, san-serif;
-    color: darkslategrey;
-    margin: 0px;
-}
-html {
-    overflow-y: scroll;
+        margin: 0;
+        border: 10px;
+        padding: 0;
+    }
+    body {
+        background-color: darkgrey;
+        font: 14px/20px Arial, san-serif;
+        color: darkslategrey;
+        margin: 0px;
+    }
+    html {
+        overflow-y: scroll;
+    }
+    aside {
+        margin: 0 auto;
+        width: 35%;
+        height: auto;
+        padding: 3%;
+        float: right;
+    }
