@@ -3,17 +3,17 @@
                 border: 10px;
                 padding: 0;
             }
+            html {
+                overflow-x: hidden;
+            }
             body {
                 background-color: darkgrey;
                 font: 14px/20px Arial, san-serif;
                 color: darkslategrey;
                 margin: 0px;
             }
-            html {
-                overflow-y: scroll;
-            }
             aside {
-                margin: 0 auto;
+                margin-right: auto;
                 width: 35%;
                 height: auto;
                 padding: 3%;
@@ -116,6 +116,10 @@
             }
             .map {
                 width: 60%;
+            }
+            .order,
+            .section {
+                margin: auto;
             }
             /* Media Queries */
 
